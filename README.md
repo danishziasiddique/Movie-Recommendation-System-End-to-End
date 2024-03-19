@@ -47,7 +47,7 @@ This is a simple movie recommendation system built using Python and Streamlit. T
 
 ![Screenshot 2024-03-03 at 10 40 51 PM](https://github.com/danishziasiddique/Movie-Recommendation-System/assets/82972335/6fae01d6-9700-4d6a-91ff-54e81233e980)
 
-https://movie-recommendation-system-danishziasiddique.streamlit.app/
+https://pictureperfect-movie-recommendation-system-danishziasiddique.streamlit.app/
 
 - Use the above link to access the project.
 
