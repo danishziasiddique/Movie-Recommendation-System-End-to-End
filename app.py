@@ -34,7 +34,7 @@ def recommend(movie):
     return recommended_movie_names, recommended_movie_posters
 
 
-st.title('Movie Recommendation System')
+st.title('PicturePerfect')
 selected_movie_name = st.selectbox(
 'Select Your Movie',
 movies['title'].values)
